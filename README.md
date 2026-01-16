@@ -38,8 +38,6 @@ Key components implemented from scratch include:
 To train the model and generate text, run the script:
 python GPT.py
 
-# Note: You may need to change the filename if you named it something else (e.g. gpt.py or main.py)
-
 ### Sample Output
 
 The model starts with random gibberish, but after training (approx. 5000 iterations), it begins to generate structure resembling Shakespearean plays:
